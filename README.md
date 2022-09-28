@@ -19,16 +19,48 @@ Each model performed differently according to their balanced accuracy scores, co
 
 balanced accuracy score: .65
 
-confusion matrix 
+confusion matrix:
+
+imbalanced classification report:
 
 ### SMOTE:
 
+balanced accuracy score: .65
+
+confusion matrix:
+
+imbalanced classification report:
+
 ### SMOTEENN:
+
+balanced accuracy score: .65
+
+confusion matrix:
+
+imbalanced classification report:
 
 ### ClusterCentroids:
 
+balanced accuracy score: .65
+
+confusion matrix:
+
+imbalanced classification report:
+
 ### Balanced Random Forest:
 
+balanced accuracy score: .65
+
+confusion matrix:
+
+imbalanced classification report:
+
 ### Easy Ensemble:
+
+balanced accuracy score: .65
+
+confusion matrix:
+
+imbalanced classification report:
 
 ## Summary
