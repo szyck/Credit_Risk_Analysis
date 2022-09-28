@@ -65,7 +65,7 @@ imbalanced classification report:
 
 ### Balanced Random Forest:
 
-balanced accuracy score: .65
+balanced accuracy score: .67
 
 confusion matrix:
 
