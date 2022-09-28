@@ -19,11 +19,9 @@ Each model performed differently according to their balanced accuracy scores, co
 
 balanced accuracy score: .65
 
-confusion matrix:
-![](images/oversampling_cm.PNG)
+![confusion matrix:](images/oversampling_cm.PNG)
 
-imbalanced classification report:
-![](images/oversampling_report.PNG)
+![imbalanced classification report:](images/oversampling_report.PNG)
 
 ### SMOTE:
 
