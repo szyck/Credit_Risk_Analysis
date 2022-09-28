@@ -17,7 +17,7 @@ Each model performed differently according to their balanced accuracy scores, co
 
 ### Random Over Sampler:
 
-balanced accuracy score: .65
+balanced accuracy score: .66
 
 confusion matrix:
 
@@ -29,7 +29,7 @@ imbalanced classification report:
 
 ### SMOTE:
 
-balanced accuracy score: .65
+balanced accuracy score: .63
 
 confusion matrix:
 
@@ -53,7 +53,7 @@ imbalanced classification report:
 
 ### ClusterCentroids:
 
-balanced accuracy score: .65
+balanced accuracy score: .56
 
 confusion matrix:
 
@@ -77,7 +77,7 @@ imbalanced classification report:
 
 ### Easy Ensemble:
 
-balanced accuracy score: .65
+balanced accuracy score: .68
 
 confusion matrix:
 
