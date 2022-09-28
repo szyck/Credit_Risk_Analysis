@@ -20,7 +20,7 @@ Each model performed differently according to their balanced accuracy scores, co
 balanced accuracy score: .65
 
 confusion matrix:
-
+![alt text]()
 imbalanced classification report:
 
 ### SMOTE:
