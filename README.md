@@ -43,7 +43,7 @@ confusion matrix:
 ![](images/SMOTEENN_cm.PNG)
 
 imbalanced classification report:
-![](images/SMOTEENN_reprot.PNG)
+![](images/SMOTEENN_report.PNG)
 
 ### ClusterCentroids:
 
