@@ -88,3 +88,5 @@ imbalanced classification report:
 ![](images/easye_report.PNG)
 
 ## Summary
+
+With an accuracy score of .68, the easy ensemble classifier was the most accurate model for predicting delinquent loans.
